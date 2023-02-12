@@ -1,0 +1,1 @@
+The app uses three.js library to create 3D effects which contains sphere geometry that I used here and gsap library to peform animations on the website.
